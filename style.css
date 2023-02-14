@@ -13,7 +13,10 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: #3a4781;
+<<<<<<< HEAD
     /* background-image: url(Background.png); */
+=======
+>>>>>>> 9faf2e8bf988026a51204437d7c3d006e5902c52
     background-image: linear-gradient(to right, #1c1b3f, #00d4ff);
     background-repeat: no-repeat;
     background-position: center;
@@ -171,7 +174,11 @@ a:hover {
 }
 
 #toggle:checked + .checkbox {
+<<<<<<< HEAD
     background-color: #ffffff;  
+=======
+    background-color: #ffffff;
+>>>>>>> 9faf2e8bf988026a51204437d7c3d006e5902c52
 }
 
 #toggle:checked ~ .menu {
