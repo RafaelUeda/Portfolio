@@ -3,6 +3,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: url(Photos/Background\ \(2\).png);
     font-family: 'Poppins', sans-serif;
     color: #1e1e2a;
 }
@@ -13,7 +14,6 @@ body {
     height: 100vh;
     width: 100vw;
     background-color: #3a4781;
-    /*          background-image: url(Background.png); */
     background-image: linear-gradient(to right, #1c1b3f, #00d4ff);
     background-repeat: no-repeat;
     background-position: center;
