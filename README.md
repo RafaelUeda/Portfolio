@@ -2,7 +2,8 @@
 <html>
   <p align="center">
     <a href="https://www.linkedin.com/in/rafael-ueda-96a502265/" target="blank">
-      <img width="200" src="Photos/Logo2.png"><p>--> Linkedin</p>
+      <img width="200" src="Photos/Logo2.png">
+        <p align="center">Linkedin</p>
     </a>
   </p>
 
