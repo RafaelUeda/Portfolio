@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <p align="center">
-    <a href="https://www.linkedin.com/in/rafael-ueda-96a502265/" target="blank_">
+    <a href="https://www.linkedin.com/in/rafael-ueda-96a502265/" target="blank">
       <img width="200" src="Photos/Logo2.png">
     </a>
   </p>
